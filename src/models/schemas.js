@@ -1,0 +1,17 @@
+export const PATH = 'BloomCare.realm';
+export const BLOCKS = 'BLOCKS';
+export const BEDS = 'BEDS';
+export const STATIONS = 'STATIONS';
+export const NEW_SCOUT = 'NEW_SCOUT';
+export const POINTS = 'POINTS';
+export const NEW_SCOUT_STATION_POINT = 'NEW_SCOUT_STATION_POINT';
+export const ISSUES = 'ISSUES';
+export const ISSUES_TYPE = 'ISSUES_TYPE';
+export const ISSUES_CATEGORY = 'ISSUES_CATEGORY';
+export const SCOUT_HISTORY = 'SCOUT_HISTORY';
+export const NEW_SCOUT_SESSION = 'NEW_SCOUT_SESSION';
+export const NEW_SCOUT_BLOCK = 'NEW_SCOUT_BLOCK';
+export const NEW_SCOUT_BED = 'NEW_SCOUT_BED';
+export const NEW_SCOUT_STATION = 'NEW_SCOUT_STATION';
+export const NEW_SCOUT_POINT = 'NEW_SCOUT_POINT';
+export const NEW_SCOUT_ISSUE = 'NEW_SCOUT_ISSUE';
